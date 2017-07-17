@@ -4,6 +4,8 @@ This repository serves as a guide to help prospective customers and partners suc
 
 ### Accessing your Environment
 
+>**ATTENTION** To view this POC environment, Please reach out to your Sales representative or Call 1 866 NETSCALER (866 638 7225) to speak to one directly about NetScaler SD WAN. 
+
 Every Demo Center demo environment gets provisioned with all the required pre-configured virtual machines needed to demonstrate the solution.  The Environment Provisioned email will contain all the detail on how to connect into your personal environment, including public IP access to the individual virtual machines.
 
 ![provision email](./images/provision-details.png)
